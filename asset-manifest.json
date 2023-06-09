@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Manojkumar7978.github.io/static/css/main.8b72c3f0.css",
-    "main.js": "/Manojkumar7978.github.io/static/js/main.490c69e5.js",
-    "static/js/787.82ececa1.chunk.js": "/Manojkumar7978.github.io/static/js/787.82ececa1.chunk.js",
-    "static/media/zostel.PNG": "/Manojkumar7978.github.io/static/media/zostel.4ac52af84db9b6c6c205.PNG",
-    "static/media/swiggy.PNG": "/Manojkumar7978.github.io/static/media/swiggy.b2c0017cc16b1c0545a2.PNG",
-    "static/media/MANOJ_PADHY_RESUME.pdf": "/Manojkumar7978.github.io/static/media/MANOJ_PADHY_RESUME.894518719fc1c4a38042.pdf",
-    "static/media/image.jpg": "/Manojkumar7978.github.io/static/media/image.d43b015e1c1650659bf2.jpg",
-    "static/media/todo.PNG": "/Manojkumar7978.github.io/static/media/todo.a9a3ac4191b8b8d7765b.PNG",
-    "index.html": "/Manojkumar7978.github.io/index.html",
-    "main.8b72c3f0.css.map": "/Manojkumar7978.github.io/static/css/main.8b72c3f0.css.map",
-    "main.490c69e5.js.map": "/Manojkumar7978.github.io/static/js/main.490c69e5.js.map",
-    "787.82ececa1.chunk.js.map": "/Manojkumar7978.github.io/static/js/787.82ececa1.chunk.js.map"
+    "main.css": "/static/css/main.8b72c3f0.css",
+    "main.js": "/static/js/main.634954ee.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/zostel.PNG": "/static/media/zostel.4ac52af84db9b6c6c205.PNG",
+    "static/media/swiggy.PNG": "/static/media/swiggy.b2c0017cc16b1c0545a2.PNG",
+    "static/media/MANOJ_PADHY_RESUME.pdf": "/static/media/MANOJ_PADHY_RESUME.894518719fc1c4a38042.pdf",
+    "static/media/image.jpg": "/static/media/image.d43b015e1c1650659bf2.jpg",
+    "static/media/todo.PNG": "/static/media/todo.a9a3ac4191b8b8d7765b.PNG",
+    "index.html": "/index.html",
+    "main.8b72c3f0.css.map": "/static/css/main.8b72c3f0.css.map",
+    "main.634954ee.js.map": "/static/js/main.634954ee.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b72c3f0.css",
-    "static/js/main.490c69e5.js"
+    "static/js/main.634954ee.js"
   ]
 }
