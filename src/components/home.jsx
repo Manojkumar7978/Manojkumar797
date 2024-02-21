@@ -6,7 +6,7 @@ import MANOJ_PADHY_RESUME from './MANOJ_PADHY_RESUME.pdf'
 import pic from './image.jpg'
 const onClickhandler = () => {
     return window.open(
-        "https://drive.google.com/file/d/1MCx2RFX-4V10NtrGQujSZusBwiQiBKSc/view?usp=sharing",
+        "https://drive.google.com/file/d/1i7o3gjhndVvxqyHPW3uRTIwjWshnUipP/view",
     );
 };
 
