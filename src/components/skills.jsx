@@ -1,6 +1,5 @@
 import React from 'react';
 import { Box, Text, Heading, Image, SimpleGrid } from '@chakra-ui/react';
-
 const Skills = ({techstack,heading}) => {
     return (
         <div>
