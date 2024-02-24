@@ -54,7 +54,44 @@ export const techstack = [
     }
 
 ]
-
+export const tools=[
+    {
+        img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+        name:"VS Code"
+    },
+    {
+        img:"https://www.svgrepo.com/show/217753/github.svg",
+        name:"Github"
+    },
+    {
+        img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+        name:"Git"
+    },
+    {
+        img:"https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
+        name:"Postman"
+    },
+    {
+        img:"https://vaishkiyarminal001.github.io/assets/img/icon/npm.png   ",
+        name:"NPM"
+    },
+    {
+        img:"https://vaishkiyarminal001.github.io/assets/img/icon/netlify.png",
+        name:"Netlify"
+    },
+    {
+        img:"https://vaishkiyarminal001.github.io/assets/img/icon/vercel.png",
+        name:"Versel"
+    },
+    {
+        img:"https://vaishkiyarminal001.github.io/assets/img/icon/canva.png",
+        name:"Canva"
+    },
+    {
+        img:"https://priyammondal.github.io/portfolio/assets/figma-6e79b3af.png",
+        name:"Figma"
+    },
+]
 export const projects = [
     {
         img: zostel,
