@@ -2,11 +2,11 @@ import React from 'react';
 import { Box, Text, Heading, Image, SimpleGrid } from '@chakra-ui/react';
 import { techstack } from '../data/data';
 
-const Skills = () => {
+const Skills = ({techstack,heading}) => {
     return (
         <div>
             <Box pt={20} bg={'white'}>
-                <Heading size={'xl'} >Skills</Heading>
+                <Heading size={'xl'} >{heading}</Heading>
 
                 <Box width={'100%'} mt={20}>
 
