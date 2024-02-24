@@ -6,7 +6,7 @@ import About from './components/about';
 import Skills from './components/skills';
 import Projects from './components/projects';
 import Contact from './components/contact';
-import { techstack, tools } from './assests/data';
+import { techstack, tools } from './data/data.js';
 
 function App() {
   return (
