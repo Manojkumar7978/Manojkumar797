@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Text, Heading, Image, SimpleGrid } from '@chakra-ui/react';
-import { techstack } from '../data/data';
+// import { techstack } from '../data/data';
 
 const Skills = ({techstack,heading}) => {
     return (
